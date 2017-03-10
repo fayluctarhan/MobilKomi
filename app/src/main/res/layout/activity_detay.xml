@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:text="@string/baslangic" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:text="@string/ana_yemek" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:text="@string/tatli" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -52,7 +52,7 @@
         android:layout_height="wrap_content"
         android:text="@string/icecek" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -75,7 +75,7 @@
         android:layout_height="wrap_content"
         android:text="@string/baslangic" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -86,7 +86,7 @@
         android:layout_height="wrap_content"
         android:text="@string/ana_yemek" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -98,7 +98,7 @@
         android:layout_height="wrap_content"
         android:text="@string/tatli" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -110,7 +110,7 @@
         android:layout_height="wrap_content"
         android:text="@string/icecek" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText8"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -131,7 +131,7 @@
         android:layout_height="wrap_content"
         android:text="@string/baslangic" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -142,7 +142,7 @@
         android:layout_height="wrap_content"
         android:text="@string/ana_yemek" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -154,7 +154,7 @@
         android:layout_height="wrap_content"
         android:text="@string/tatli" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText11"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -166,7 +166,7 @@
         android:layout_height="wrap_content"
         android:text="@string/icecek" />
 
-    <EditText
+    <TextView
         android:id="@+id/EditText12"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
