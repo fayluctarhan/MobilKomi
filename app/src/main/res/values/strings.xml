@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MobilKomi</string>
+    <string name="hosgeldiniz">HOŞGELDİNİZ</string>
+    <string name="siparisal">Sipariş Al</string>
+    <string name="mus1">Müşteri-1</string>
+    <string name="baslangic">Başlangıç</string>
+    <string name="ana_yemek">Ana Yemek</string>
+    <string name="tatli">Tatlı</string>
+    <string name="icecek">İçecek</string>
+    <string name="ilet">Mutfağa İlet</string>
+    <string name="mus2">Müşteri-2</string>
+    <string name="mus3">Müşteri-3</string>
 </resources>
